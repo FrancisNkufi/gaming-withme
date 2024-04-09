@@ -37,3 +37,15 @@ footer {
 
 }
 
+button {
+  height: 60px;
+  width: 100px;
+  background-color: rgb(56, 134, 56);
+  border-radius:50px
+}
+
+.playGame{
+  display: flex;
+  justify-content: center;
+}
+
